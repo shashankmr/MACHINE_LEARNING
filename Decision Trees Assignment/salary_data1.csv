@@ -1,0 +1,101 @@
+Designation,College,Degree,Years of Experience,Industry Domain,Prev Salary(PM),Prev Designation,Salary(PM)
+Junior Engineer,abc,B.E,0,IT,10000,Junior Engineer,20000
+Senior Engineer,xyz,B.E,3,IT,30000,Junior Engineer,40000
+Senior Engineer,def,B.Arch,2,IT,40000,Junior Engineer,50000
+Manager,abc,B.E,3,Infra,80000,Senior Engineer,120000
+Senior Engineer,xyz,B.E,2,IT,25000,Junior Engineer,18000
+Manager,def,B.E,3,Infra,25000,Senior Engineer,40100
+Senior Engineer,abc,B.Arch,5,IT,50000,Junior Engineer,70000
+Manager,def,B.E,4,Infra,20000,Manager,30000
+Junior Engineer,xyz,B.E,1,IT,20000,Junior engineer,50000
+Manager,xyz,B.E,4,Infra,25000,Senior engineer,30000
+Senior Engineer,abc,B.E,1,IT,25000,Junior engineer,30000
+Senior Engineer,abc,B.E,2,Infra,15000,Junior Engineer,45000
+Senior Engineer,def,B.Arch,3,IT,40000,Senior engineer,60000
+Senior Engineer,def,B.Arch,3,Infra,17000,Junior Engineer,27500
+Senior Engineer,def,B.Arch,3,IT,10000,Senior Engineer,70000
+Manager,abc,B.E,5,Infra,50000,Senior Engineer,70000
+Manager,def,B.Arch,3,Infra,40000,Junior engineer,65790
+Senior Engineer,abc,B.E,4,IT,20000,Junior Engineer,90000
+Manager,def,B.E,1,Infra,10000,Junior Engineer,30000
+Senior Engineer,xyz,B.Arch,6,IT,200000,Junior Engineer,20000
+Junior Engineer,abc,B.E,4,Infra,10000,Junior Engineer,10000
+Senior Engineer,abc,B.E,3,Infra,25000,Junior Engineer,59876
+Manager,def,B.E,4,IT,30000,Senior Engineer,45123
+Senior Engineer,abc,B.E,3,IT,40000,Senior Engineer,60765
+Manager,def,B.E,2,IT,40000,Senior Engineer,500857
+Manager,def,B.E,1,Infra,20000,Senior Engineer,50000
+Manager,def,B.E,3,Infra,20000,Junior Engineer,67000
+Junior Engineer,abc,B.Arch,2,Infra,90000,Junior Engineer,120000
+Senior Engineer,abc,B.E,5,IT,20000,Junior Engineer,54102
+Junior Engineer,xyz,B.E,7,IT,8000,Junior Engineer,30000
+Senior Engineer,def,B.Arch,4,Infra,10000,Junior Engineer,500
+Junior Engineer,def,B.E,9,IT,10000,Junior Engineer,134000
+Senior Engineer,abc,B.Arch,1,IT,20000,Junior Engineer,20000
+Junior Engineer,abc,B.E,2,IT,100000,Junior Engineer,300000
+Junior Engineer,def,B.E,3,Infra,20000,Junior Engineer,96874
+Senior Engineer,abc,B.E,1,IT,20000,Junior Engineer,56000
+Senior Engineer,xyz,B.Arch,6,IT,10000,Junior Engineer,97000
+Manager,abc,B.E,3,Infra,20000,Senior Engineer,75000
+Manager,def,B.E,1,IT,1000,Senior Engineer,85000
+Senior Engineer,xyz,B.Arch,7,Infra,20000,Senior Engineer,110000
+Junior Engineer,abc,B.E,1,Infra,10000,Senior Engineer,21500
+Senior Engineer,abc,B.E,4,IT,15000,Junior Engineer,20000
+Senior Engineer,xyz,B.E,7,IT,40000,Junior Engineer,69000
+Manager,xyz,B.Arch,4,IT,47000,Junior Engineer,67000
+Senior Engineer,abc,B.E,10,Infra,45000,Junior Engineer,75000
+Manager,xyz,B.E,2,IT,35000,Senior Engineer,72450
+Junior Engineer,abc,B.Arch,8,Infra,20000,junior engineer,89900
+Senior Engineer,def,B.Arch,5,IT,23000,Junior Engineer,66789
+Senior Engineer,def,B.E,4,Infra,40000,Junior Engineer,76543
+Manager,abc,B.E,9,IT,40000,Senior Engineer,20000
+Junior Engineer,abc,B.E,0,IT,10000,Junior Engineer,20000
+Senior Engineer,xyz,B.E,3,IT,30000,Junior Engineer,40000
+Senior Engineer,def,B.Arch,2,IT,40000,Junior Engineer,50000
+Manager,abc,B.E,3,Infra,80000,Senior Engineer,120000
+Senior Engineer,xyz,B.E,2,IT,25000,Junior Engineer,18000
+Manager,def,B.E,3,Infra,25000,Senior Engineer,40100
+Senior Engineer,abc,B.Arch,5,IT,50000,Junior Engineer,70000
+Manager,def,B.E,4,Infra,20000,Manager,30000
+Junior Engineer,xyz,B.E,1,IT,20000,Junior engineer,50000
+Manager,xyz,B.E,4,Infra,25000,Senior engineer,30000
+Senior Engineer,abc,B.E,1,IT,25000,Junior engineer,30000
+Senior Engineer,abc,B.E,2,Infra,15000,Junior Engineer,45000
+Senior Engineer,def,B.Arch,3,IT,40000,Senior engineer,60000
+Senior Engineer,def,B.Arch,3,Infra,17000,Junior Engineer,27500
+Senior Engineer,def,B.Arch,3,IT,10000,Senior Engineer,70000
+Manager,abc,B.E,5,Infra,50000,Senior Engineer,70000
+Manager,def,B.Arch,3,Infra,40000,Junior engineer,65790
+Senior Engineer,abc,B.E,4,IT,20000,Junior Engineer,90000
+Manager,def,B.E,1,Infra,10000,Junior Engineer,30000
+Senior Engineer,xyz,B.Arch,6,IT,200000,Junior Engineer,20000
+Junior Engineer,abc,B.E,4,Infra,10000,Junior Engineer,10000
+Senior Engineer,abc,B.E,3,Infra,25000,Junior Engineer,59876
+Manager,def,B.E,4,IT,30000,Senior Engineer,45123
+Senior Engineer,abc,B.E,3,IT,40000,Senior Engineer,60765
+Manager,def,B.E,2,IT,40000,Senior Engineer,500857
+Manager,def,B.E,1,Infra,20000,Senior Engineer,50000
+Manager,def,B.E,3,Infra,20000,Junior Engineer,67000
+Junior Engineer,abc,B.Arch,2,Infra,90000,Junior Engineer,120000
+Senior Engineer,abc,B.E,5,IT,20000,Junior Engineer,54102
+Junior Engineer,xyz,B.E,7,IT,8000,Junior Engineer,30000
+Senior Engineer,def,B.Arch,4,Infra,10000,Junior Engineer,500
+Junior Engineer,def,B.E,9,IT,10000,Junior Engineer,134000
+Senior Engineer,abc,B.Arch,1,IT,20000,Junior Engineer,20000
+Junior Engineer,abc,B.E,2,IT,100000,Junior Engineer,300000
+Junior Engineer,def,B.E,3,Infra,20000,Junior Engineer,96874
+Senior Engineer,abc,B.E,1,IT,20000,Junior Engineer,56000
+Senior Engineer,xyz,B.Arch,6,IT,10000,Junior Engineer,97000
+Manager,abc,B.E,3,Infra,20000,Senior Engineer,75000
+Manager,def,B.E,1,IT,1000,Senior Engineer,85000
+Senior Engineer,xyz,B.Arch,7,Infra,20000,Senior Engineer,110000
+Junior Engineer,abc,B.E,1,Infra,10000,Senior Engineer,21500
+Senior Engineer,abc,B.E,4,IT,15000,Junior Engineer,20000
+Senior Engineer,xyz,B.E,7,IT,40000,Junior Engineer,69000
+Manager,xyz,B.Arch,4,IT,47000,Junior Engineer,67000
+Senior Engineer,abc,B.E,10,Infra,45000,Junior Engineer,75000
+Manager,xyz,B.E,2,IT,35000,Senior Engineer,72450
+Junior Engineer,abc,B.Arch,8,Infra,20000,junior engineer,89900
+Senior Engineer,def,B.Arch,5,IT,23000,Junior Engineer,66789
+Senior Engineer,def,B.E,4,Infra,40000,Junior Engineer,76543
+Manager,abc,B.E,9,IT,40000,Senior Engineer,20000
